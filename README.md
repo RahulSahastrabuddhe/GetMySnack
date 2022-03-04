@@ -37,4 +37,5 @@ Overall Structure of the Application: Backend: Database.js: manages SQLite3 conn
 Frontend: src: Contains almost all of the code. App.js: Loads when the application executes. Calls Header.js and Items.js. Components: Header.js: Loads the heading of the SPA. Items.js: Contains most of the rendering logic: infinite scrolling, mapping data. Calls Item.js to show each indivisual item. Item.js: Contains the visual part for one item. Make use of the data sent by parent component though props. Images: Contains all the images used thoughout the tool. Could have managed it better in a large application. UI: Logo.js: Loads Logo of 'Snackpass' component. Used in the Header component. 5. Final Output screenshots as following.
 
 Application screenshots:
-https://user-images.githubusercontent.com/14957493/154777404-01fa9ff2-120a-4239-bb9f-a05f8ab797bb.png
+![154777404-01fa9ff2-120a-4239-bb9f-a05f8ab797bb](https://user-images.githubusercontent.com/14957493/156681565-94c7215f-ac19-44ce-ade7-95c1828d0a1e.png)
+
